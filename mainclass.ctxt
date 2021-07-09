@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=mainclass
+comment0.text=\r\n\ Mad-Max\ Fury\ Road\ esque\ game\ where\ cars\ battle\ it\ out\ over\ the\ worst\ conditions\r\n\ simulated\ to\ win\ the\ grand\ prize\ at\ the\ end.\ \r\n\ Welcome\ to\ the\ Golden\ Requiem\ \:\ F-mega\ race.\r\n\r\n\ @Shorya\ Sinha\ (your\ name)\r\n\ @version\ 1\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Method\ main\r\n\ This\ method\ main\ will\ be\ used\ to\ run\ the\ simulation\ of\ the\ entire\ game\ and\ redirect\ values\ to\ other\ classes\ such\ as\ carcharacteristics\r\n\ and\ it's\ subclasses\ such\ as\ AIracers\ and\ usercar.\ AIracers\ also\ has\ subclasses\ Orc\ and\ Goblin\ and\ the\ method\ main\ will\ also\ redirect\ and\ initialise\r\n\ objects/instances\ of\ those\ classes\ using\ substitution\ principle\ and\ polymorphism.\ To\ access\ methods\ which\ are\ only\ part\ of\ the\ subclasses\ and\ not\r\n\ the\ superclass,\ we\ use\ dynamic\ binding\ referencing.\ There\ is\ also\ a\ call\ to\ the\ constructor\ of\ the\ class\ racetrack\ which\ will\ initialise\ the\ position\r\n\ value\ there\ and\ also\ create\ a\ method\ called\ seteventlikelihood\ which\ is\ the\ gateway\ probability\ method\ to\ execute\ the\ fight\ method\ of\ the\ carcharacteristics\ class.\r\n
+comment2.params=message
+comment2.target=java.lang.String\ inputString(java.lang.String)
+comment3.params=message
+comment3.target=int\ inputInt(java.lang.String)
+numComments=4
