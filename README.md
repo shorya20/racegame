@@ -1,6 +1,6 @@
 
 
-#Java OOP built racing simulator built from scratch.
+Java OOP built racing simulator built from scratch.
 ##This program comprises of techniques such as:
 
 - Inheritence
